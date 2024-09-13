@@ -16,8 +16,8 @@ This repository contains a sophisticated N-gram text generation model implemente
 To use the model, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/MegalithOfficial/N-gram-Algorithms.git
-cd n-gram-algorithms
+git clone https://github.com/MegalithOfficial/N-gram-Algorithm.git
+cd n-gram-algorithm
 npm install
 ```
 
